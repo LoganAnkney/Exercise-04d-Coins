@@ -16,5 +16,18 @@ https://kenney.nl/assets/pixel-platformer
 ## Created by
 Logan Ankney
 
-Multiple levels
-1 Large or elaborate level 
+Assignment turned in on time
+Repository contains a descriptive README.md
+No (script) syntax errors
+No other runtime errors
+Includes a user-controlled player
+The player can jump
+Includes at least one enemy
+Includes more than one enemy
+COULDN"T FIGURE OUT THE SCORING
+The camera follows the player
+Terrain with which to interact
+My Music Mix
+Extra enemies (especially with interesting behaviors) - Thowp esc, enemy - player is near, jumping and smashing
+1 Large or elaborate level
+Multiple levels - including starting beginning level
